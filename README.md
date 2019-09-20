@@ -2,7 +2,6 @@
 
 Click on Below Photo To Deploy Bot To Heroku 
 
-[![Deploy](https://telegra.ph/file/36fe99a0eb564de401e0e.png)](https://heroku.com/deploy)
+[![Deploy](https://i.postimg.cc/W40ZRmWm/carbon-1.png)](https://heroku.com/deploy)
 
 
-[Contact Me on Telegram Here](https://telegram.dog/iamomkarofficial)
